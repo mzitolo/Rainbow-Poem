@@ -1,5 +1,6 @@
-Rainbow Poem
+Rainbow and Unicorm Poem
 
+A unicorn sees a rainbow:
 Red
 Orange
 Yellow
@@ -9,4 +10,5 @@ Purple
 Gray
 Black
 
-These are the colors of the rainbow
+These are the colors of the rainbow.
+Unicorns love these!
